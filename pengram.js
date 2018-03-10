@@ -11,21 +11,16 @@ function main() {
 
 	//
 	buf = initArray();
-	console.log(buf);
-
-
-	/*
 	input1 = input1.toLowerCase();
 	isPengramCondi = isPengram(input1, buf); 
 	console.log(isPengramCondi);		
-	*/
 
-	/*
+	//
 	buf = initArray();
 	input2 = input2.toLowerCase();
 	isPengramCondi = isPengram(input2, buf);
   console.log(isPengramCondi);
-	*/
+	
 }
 
 
